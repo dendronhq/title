@@ -1,5 +1,7 @@
 # Title
 
+> This is a fork of [vercel/title](https://github.com/vercel/title) with some bug fixes by the Dendron team. 
+
 This package correctly capitalizes your titles as per [The Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html). Furthermore, all of
 Vercel's product names are capitalized properly as well.
 
