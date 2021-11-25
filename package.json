@@ -1,5 +1,5 @@
 {
-  "name": "title",
+  "name": "@dendronhq/title",
   "version": "3.4.3",
   "description": "Capitalize your titles properly",
   "main": "./lib/index.js",
